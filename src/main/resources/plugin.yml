@@ -1,0 +1,8 @@
+name: ImageConverter
+version: 0.1
+author: Asyncharles
+main: net.charles.ImageConverter
+api-version: 1.16
+commands:
+  convert:
+    permission: image.convert
